@@ -30,7 +30,7 @@
 
 ---
 
-## 🏅 Certification
+## Certification
 
 <p align="center">
 <a href="https://www.credly.com/badges/cedbe132-862a-452c-9968-45a242f99fc2/public_url">
@@ -40,7 +40,7 @@
 
 ---
 
-## 📊 Impact & Numbers
+## Impact & Numbers
 
 ```
 ┌────────────────────────────────────────────────────────────────────────┐
@@ -73,7 +73,7 @@ Databases         PostgreSQL, SQL, GraphQL, NoSQL
 <tr>
 <td width="50%">
 
-### 💰 [Cloud Cost Optimization](https://github.com/jithinkumar900/Cloud-cost-optimization_Project)
+### [Cloud Cost Optimization](https://github.com/jithinkumar900/Cloud-cost-optimization_Project)
 
 ```diff
 + Auto-deletes stale EBS snapshots
@@ -128,7 +128,7 @@ previous:
 
 ---
 
-## 🎓 Education
+## Education
 
 **B.Tech in Computer Science** • MGM's JNEC • 8.4 CGPA • 2019-2023
 
