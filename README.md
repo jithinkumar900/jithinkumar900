@@ -33,7 +33,9 @@
 ## 🏅 Certification
 
 <p align="center">
+<a href="https://www.credly.com/badges/cedbe132-862a-452c-9968-45a242f99fc2/public_url">
 <img src="https://img.shields.io/badge/RHCSA-Red_Hat_Certified_System_Administrator_(RHEL_9)-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
+</a>
 </p>
 
 ---
