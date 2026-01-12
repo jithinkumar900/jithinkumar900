@@ -45,30 +45,24 @@
 ```
 ┌────────────────────────────────────────────────────────────────────────┐
 │                                                                        │
-│   220K+     Daily calls handled on production voicebot infra          │
+│   220K+     Daily calls handled on production voicebot infra           │
 │   40%       Reduction in manual operations via automation              │
 │   25%       Decrease in incident rates through reliability work        │
-│   Zero      Downtime across UAT, CUG, Production & DR environments    │
-│   PCI-DSS   Compliance achieved for U.S. market enterprise clients    │
+│   Zero      Downtime across UAT, CUG, Production & DR environments     │
+│   PCI-DSS   Compliance achieved for U.S. market enterprise clients     │
 │                                                                        │
 └────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## `$ kubectl get skills -o wide`
+## `$ cat /etc/skills.conf`
 
 ```
-NAME                    TYPE          PROFICIENCY   AGE
-────────────────────────────────────────────────────────────────
-kubernetes              orchestration ████████████  2y
-prometheus-grafana      observability ████████████  2y  
-aws-azure               cloud         ███████████░  2y
-jenkins-argocd          ci-cd         ███████████░  2y
-docker-containerd       containers    ████████████  2y
-python-bash-ansible     automation    ███████████░  2y
-postgresql-graphql      databases     ██████████░░  2y
-helm-gitops             deployment    ███████████░  2y
+Infrastructure    AWS, Kubernetes, Docker, ArgoCD, Helm, Git
+Automation        Ansible, Bash, Python, Shell Scripting, Crontab
+Monitoring        Prometheus, Grafana, Sentry, Tempo
+Databases         PostgreSQL, SQL, GraphQL, NoSQL
 ```
 
 ---
