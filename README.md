@@ -1,10 +1,33 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=header"/>
+
+<h1 align="center">Hey, I'm Jithin S 👋</h1>
+
+<p align="center">
+<b>DevOps Engineer</b> • Kubernetes • Observability • Cloud Architecture
+</p>
+
+<p align="center">
+<i>"Building resilient infrastructure that scales"</i>
+</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/jithinsureshdev/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
+</a>
+&nbsp;
+<a href="mailto:jithinsuresh900@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
+</a>
+</p>
+
+---
+
 ```yaml
 # ~/.config/jithin/profile.yaml
 apiVersion: v1
 kind: Engineer
 metadata:
   name: jithin-s
-  namespace: skit-ai
   labels:
     role: devops-engineer
     experience: 2+ years
@@ -24,33 +47,7 @@ spec:
   philosophy: |
     "If you're doing it more than twice, automate it.
      If it's not monitored, it doesn't exist in production."
-  
-  currently:
-    company: skit.ai
-    building: AI voice infrastructure
-    scaling: enterprise banking systems
-    automating: everything possible
 ```
-
----
-
-<h2>📬 Let's Connect</h2>
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/jithinkumar900/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:jithinsuresh900@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
-</a>
-
-</p>
-
-<p align="center">
-<b>Open to DevOps, Platform Engineering & SRE opportunities</b>
-</p>
 
 ---
 
@@ -129,11 +126,13 @@ vault-trivy             security      ████████░░░░  1y
 ---
 
 <p align="center">
-<a href="https://www.linkedin.com/in/jithinkumar900/">
-<img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/jithinsureshdev/">
+<img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <a href="mailto:jithinsuresh900@gmail.com">
-<img src="https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Send_me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer"/>
