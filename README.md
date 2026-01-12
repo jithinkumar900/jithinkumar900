@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=header"/>
-
 <h1 align="center">Hey, I'm Jithin S 👋</h1>
 
 <p align="center">
@@ -149,5 +147,3 @@ previous:
 <img src="https://img.shields.io/badge/Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer"/>
