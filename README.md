@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Jithin S 👋</h1>
 
 <p align="center">
-<b>DevOps Engineer</b> • Kubernetes • Observability • Cloud Architecture
+<b>DevOps Engineer</b> • 2+ Years • Kubernetes • Observability • Cloud
 </p>
 
 <p align="center">
