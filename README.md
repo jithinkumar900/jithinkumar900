@@ -10,6 +10,16 @@
 <i>"Building resilient infrastructure that scales"</i>
 </p>
 
+<br/>
+
+<p align="center">
+<img src="https://img.shields.io/badge/🟢_OPEN_TO_WORK-DevOps_|_SRE_|_Platform_Engineer-2ea44f?style=for-the-badge"/>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/📍_Bangalore-Remote_|_Hybrid_|_Relocate-764ba2?style=flat-square"/>
+</p>
+
 <p align="center">
 <a href="https://www.linkedin.com/in/jithinsureshdev/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
@@ -22,31 +32,26 @@
 
 ---
 
-```yaml
-# ~/.config/jithin/profile.yaml
-apiVersion: v1
-kind: Engineer
-metadata:
-  name: jithin-s
-  labels:
-    role: devops-engineer
-    experience: 2+ years
-    certification: rhcsa
-    status: open-to-opportunities
-spec:
-  expertise:
-    primary:
-      - kubernetes
-      - observability
-      - cloud-architecture
-    secondary:
-      - ci-cd-pipelines
-      - mlops
-      - devsecops
-  
-  philosophy: |
-    "If you're doing it more than twice, automate it.
-     If it's not monitored, it doesn't exist in production."
+## 🏅 Certification
+
+<p align="center">
+<img src="https://img.shields.io/badge/RHCSA-Red_Hat_Certified_System_Administrator_(RHEL_9)-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
+</p>
+
+---
+
+## 📊 Impact & Numbers
+
+```
+┌────────────────────────────────────────────────────────────────────────┐
+│                                                                        │
+│   220K+     Daily calls handled on production voicebot infra          │
+│   40%       Reduction in manual operations via automation              │
+│   25%       Decrease in incident rates through reliability work        │
+│   Zero      Downtime across UAT, CUG, Production & DR environments    │
+│   PCI-DSS   Compliance achieved for U.S. market enterprise clients    │
+│                                                                        │
+└────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -58,14 +63,12 @@ NAME                    TYPE          PROFICIENCY   AGE
 ────────────────────────────────────────────────────────────────
 kubernetes              orchestration ████████████  2y
 prometheus-grafana      observability ████████████  2y  
-aws-azure-gcp           cloud         ███████████░  2y
-github-actions-jenkins  ci-cd         ███████████░  2y
-docker-podman           containers    ████████████  2y
-python-bash             scripting     ███████████░  2y
-terraform-ansible       iac           ██████████░░  1y
-helm-argocd             gitops        ███████████░  2y
-mlflow-kubeflow         mlops         █████████░░░  1y
-vault-trivy             security      ████████░░░░  1y
+aws-azure               cloud         ███████████░  2y
+jenkins-argocd          ci-cd         ███████████░  2y
+docker-containerd       containers    ████████████  2y
+python-bash-ansible     automation    ███████████░  2y
+postgresql-graphql      databases     ██████████░░  2y
+helm-gitops             deployment    ███████████░  2y
 ```
 
 ---
@@ -79,22 +82,24 @@ vault-trivy             security      ████████░░░░  1y
 ### 💰 [Cloud Cost Optimization](https://github.com/jithinkumar900/Cloud-cost-optimization_Project)
 
 ```diff
-+ Lambda function for AWS cost control
-+ Auto-deletes orphaned EBS snapshots
-+ Reduced monthly AWS spend
-! Tech: Python, Boto3, Lambda, CloudWatch
++ Auto-deletes stale EBS snapshots
++ Cross-references active EC2/volumes
++ CloudWatch + cron for daily cleanup
++ Secure IAM-based execution
+! Result: Monthly AWS cost reduction
 ```
 
 </td>
 <td width="50%">
 
-### 🔗 [GitHub-Jira Integration](https://github.com/jithinkumar900/Github-Jira-ticket-creator-project)
+### 🔗 [GitHub-Jira Automation](https://github.com/jithinkumar900/Github-Jira-ticket-creator-project)
 
 ```diff
-+ Webhook-based automation
-+ GitHub Issues → Jira Tickets
-+ Zero manual ticket creation
-! Tech: Python, Flask, Webhooks, REST API
++ 20% API performance improvement
++ Auto-creates Jira from GitHub issues
++ Comment-triggered: /createJira
++ Flask + nginx on cloud VM
+! Result: Hands-free ticket workflow
 ```
 
 </td>
@@ -103,35 +108,45 @@ vault-trivy             security      ████████░░░░  1y
 
 ---
 
-## `$ cat /var/log/work.log`
+## `$ cat /var/log/career.log`
 
+```yaml
+current:
+  role: DevOps Engineer
+  company: Skit.ai
+  period: July 2024 - Present
+  highlights:
+    - Voicebot infra for top private bank (220K+ daily calls)
+    - Air-gapped K8s on bare-metal RHEL via Ansible
+    - PCI-DSS compliance for enterprise clients
+    - L2 on-call support for 24/7 operations
+    - Mentoring junior engineers & new hires
+
+previous:
+  role: Jr. Associate Trainee - Technical  
+  company: Unnati Pvt Ltd
+  period: May 2023 - July 2024
+  highlights:
+    - AWS: EC2, Lambda, S3, DynamoDB, API Gateway
+    - 15% infrastructure cost reduction
+    - 30% deployment efficiency improvement
 ```
-┌─────────────────────────────────────────────────────────────────────┐
-│                                                                     │
-│  DevOps Engineer @ Skit.ai                                         │
-│                                                                     │
-│  Building infrastructure for AI-powered voice automation           │
-│  systems handling enterprise banking clients.                       │
-│                                                                     │
-│  What I do daily:                                                   │
-│  ├── 🎯 Manage production Kubernetes clusters                      │
-│  ├── 📊 Design monitoring & alerting systems                       │
-│  ├── 🚀 Build & maintain CI/CD pipelines                           │
-│  ├── ☁️  Architect multi-cloud infrastructure                       │
-│  └── 🔒 Implement security best practices                          │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
-```
+
+---
+
+## 🎓 Education
+
+**B.Tech in Computer Science** • MGM's JNEC • 8.4 CGPA • 2019-2023
 
 ---
 
 <p align="center">
 <a href="https://www.linkedin.com/in/jithinsureshdev/">
-<img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <a href="mailto:jithinsuresh900@gmail.com">
-<img src="https://img.shields.io/badge/Send_me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
 
